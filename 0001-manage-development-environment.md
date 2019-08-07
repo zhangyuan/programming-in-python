@@ -73,3 +73,7 @@ pip install install -r requirements.txt -r requirements-prod.txt
 ```shell
 pip freeze > requirements-frozen-dev.txt
 ```
+
+## 连接非默认的软件包服务器
+
+TODO
