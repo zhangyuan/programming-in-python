@@ -79,4 +79,4 @@ pip freeze > requirements-frozen-dev.txt
 
 ## 连接非默认的软件包服务器
 
-TODO
+参考 https://mirrors.tuna.tsinghua.edu.cn/help/pypi/
