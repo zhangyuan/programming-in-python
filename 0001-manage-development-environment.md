@@ -10,6 +10,10 @@ Python已经有发展过了超过三十多年，既随着时代进步，也背�
 
 ## 管理本地开发环境中的 Python
 
+### 使用 asdf 管理 Python版本
+
+https://asdf-vm.com/
+
 ### 使用 pyenv 管理 Python 版本
 
 pyenv是一个Python的版本管理工具，项目主页位于Github （<https://github.com/pyenv/pyenv>）。使用pyenv，可以在不污染系统Python环境的前提下，安装和切换不同的Python版本。
@@ -23,7 +27,6 @@ curl https://pyenv.run | bash
 重启shell后即可生效。
 
 pyenv的原理可见其项目主页的说明。主要命令见 <https://github.com/pyenv/pyenv/blob/master/COMMANDS.md>。
-
 
 ### 使用 virtualenv 管理虚拟的 Python 环境
 
